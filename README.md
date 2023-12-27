@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CHMBRB
+- 👋 Hi, I’m @chmbrb
 - 👀 I’m interested in
   - updating this README.md (obviously!)
   - Backend Software Development, Databases, RESTful APIs, etc...
@@ -13,7 +13,7 @@
 - 💞️ I’m looking to collaborate on
   - whatever calls. If I am able to contribute anything of value even as a friendly "pay-it-forward" then that's good enough.
 - 📫 How to reach me
-  - 149268788+CHMBRB@users.noreply.github.com
+  - 149268788+chmbrb@users.noreply.github.com
 
 <!---
 CHMBRB/CHMBRB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
